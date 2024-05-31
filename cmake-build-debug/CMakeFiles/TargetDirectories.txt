@@ -1,0 +1,3 @@
+/Users/ggam-nyang/Passions/C++/WAVformat/cmake-build-debug/CMakeFiles/WAVformat.dir
+/Users/ggam-nyang/Passions/C++/WAVformat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ggam-nyang/Passions/C++/WAVformat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
