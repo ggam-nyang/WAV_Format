@@ -1,10 +1,27 @@
 #include <iostream>
 #include <cmath>
 #include <fstream>
+#include "just_voice_sdk-v1.0.1-5b13f2b-trial/public/just_voice.h"
 using namespace std;
 
 const int sampleRate = 44100;
 const int bitDepth = 16;
+
+void SetJV() {
+    just_voice_handle_t* handle = NULL;
+
+    int32_t const create_result = JV_CREATE(&handle);
+    if (create_result != JV_SUCCESS) return;
+
+    just_voice_config_t const config = { 1, 1, 48000, 480 };
+    just_voice_params_t const params = { 1.f };
+
+    int32_t const setup_result = JV_SETUP(handle, &config, &params);
+    if (setup_result != JV_SUCCESS) return;
+
+    // JV_PROCESS의 경우 in, out 버퍼를 입력해야하는데 (float*) 타입이다.
+    // 아마 JUCE에서 사용했던대로 하면 입력해볼 수 있을 것 같다..!
+}
 
 class SineOscillator {
     float m_Frequency;

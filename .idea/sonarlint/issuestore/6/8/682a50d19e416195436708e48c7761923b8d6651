@@ -1,7 +1,9 @@
 
-‰	cpp:S5276"Gimplicit conversion loses floating-point precision: 'double' to 'float'(†¢–8•ÂÛ÷û1J$a99e8aa9-5563-430c-8211-2a9cccf0b2eb
-š	cpp:S5276:"Simplicit conversion loses integer precision: 'streamoff' (aka 'long long') to 'int'(”¼‘ûşÿÿÿÿ8ù·ºøû1J$90faf264-618e-4317-9b2b-b40d31701863
-š	cpp:S5276B"Simplicit conversion loses integer precision: 'streamoff' (aka 'long long') to 'int'(û¥·Öÿÿÿÿÿ8Œ§»øû1J$aab4d46d-9199-46ba-a8a4-6037a0798ac1
-r	cpp:S6022"0Use "std::byte" for byte-oriented memory access.(óßÌĞ8ÕŒ¢øû1J$aeac462f-eee1-4c3a-b1a1-54b709dda3d1
-t	cpp:S3630"2Replace "reinterpret_cast" with a safer operation.(óßÌĞ8Õú‡øû1J$34bc5693-744e-4965-afd1-46129a4b1194
-n	cpp:S5827?"'Replace the redundant type with "auto".(¡œ£ïøÿÿÿÿ8„×µøû1J$f8dbe2a6-e40e-49e1-9ce4-e2032939fe9e
+‰	cpp:S5276!"Gimplicit conversion loses floating-point precision: 'double' to 'float'(†¢–8•ÂÛ÷û1J$b987e6fd-dd9f-4ce7-9a1c-64df9f4561b3
+š	cpp:S5276K"Simplicit conversion loses integer precision: 'streamoff' (aka 'long long') to 'int'(”¼‘ûşÿÿÿÿ8ù·ºøû1J$56ff1378-4a9c-475d-9328-93597ae874a5
+š	cpp:S5276S"Simplicit conversion loses integer precision: 'streamoff' (aka 'long long') to 'int'(û¥·Öÿÿÿÿÿ8Ğ×ãêÿ1J$ccee1067-9a19-479c-87ed-9ce42f9bee3a
+Œ	cpp:S6004"JUse the init-statement to declare "create_result" inside the if statement.(úÔÙ‚8î—íêÿ1J$e5dfa28e-fa01-480f-9879-46d7b0a5ce5b
+a	cpp:S4962"Use the "nullptr" literal.(É¿üÇşÿÿÿÿ8Ïñìêÿ1J$7575c7f8-5852-48e9-91a8-869f035bf0bf
+r	cpp:S6022."0Use "std::byte" for byte-oriented memory access.(óßÌĞ8ÕŒ¢øû1J$7eb50700-63e1-4c64-9ddc-fce6554db2b9
+t	cpp:S3630."2Replace "reinterpret_cast" with a safer operation.(óßÌĞ8Õú‡øû1J$fbe6b1d9-9663-413f-98dd-6073d29cbe08
+n	cpp:S5827P"'Replace the redundant type with "auto".(¡œ£ïøÿÿÿÿ8é×ãêÿ1J$32ff16f5-a6ec-484f-a9f5-70956e9b9e03
